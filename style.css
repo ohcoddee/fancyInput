@@ -1,0 +1,19 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  position: absolute;
+}
+
+div {
+  width: 1px;
+  height: 1px;
+  border-radius: 50%;
+  background-color: darkgreen;
+  position: absolute;
+}
